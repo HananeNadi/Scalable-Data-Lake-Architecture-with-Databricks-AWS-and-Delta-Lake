@@ -34,6 +34,9 @@ This project leverages Databricks, AWS, and Delta Lake to create a scalable data
 - **Power BI:** Required for visualizing the gold layer data.
 - **Python:** For additional data processing and analysis, and for connecting Power BI to S3.
 
+## Visualisation 
+![dashboard](https://github.com/user-attachments/assets/06945c41-0b36-44bb-9b05-6f7773dcd1d5)
+
 ## Future Improvements
 - **Automate ETL Pipelines:** Schedule jobs for automated data ingestion and transformation.
 - **Expand Data Sources:** Integrate additional data sources into the data lake.
